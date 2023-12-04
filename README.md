@@ -39,7 +39,7 @@ This project focuses on implementing specific functionalities for buttons in a p
 
 Contributors names and contact info
 
-Samuel Dahunsi
+Dolapo Oshikoya
 [@dolapurr](https://twitter.com/dolapurr)
 
 
