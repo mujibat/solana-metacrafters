@@ -40,7 +40,7 @@ This project focuses on implementing specific functionalities for buttons in a p
 Contributors names and contact info
 
 Samuel Dahunsi
-[@psalmuel1st](https://twitter.com/psalmuel1st)
+[@dolapurr](https://twitter.com/dolapurr)
 
 
 ## License
