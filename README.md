@@ -4,7 +4,7 @@ Solana Functionality Implementation
 
 ## Description
 
-This project focuses on implementing specific functionalities for buttons in a provided frontend project. The primary objectives include generating a new Solana account and airdropping it, connecting to the Phantom Wallet, and transferring SOL between the created and connected accounts. It is a solution to a Metacraft challenge for Solana midule.
+This project focuses on implementing specific functionalities for buttons in a provided frontend project. The primary objectives include generating a new Solana account and airdropping it, connecting to the Phantom Wallet, and transferring SOL between the created and connected accounts. It is a solution to a Metacraft challenge for Solana module.
 
 ## Getting Started
 
